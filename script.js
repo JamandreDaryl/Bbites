@@ -29,7 +29,7 @@ $(document).ready(function() {
             name: "Blueberry Muffins",
             price: 250,
             originalPrice: 450,
-            image: "BM.PNG",
+            image: "BM.png",
             description: "Fluffy muffins packed with fresh blueberries"
         },
         {
@@ -77,7 +77,7 @@ $(document).ready(function() {
             name: "Specialty Cupcakes",
             price: 150,
             originalPrice: 250,
-            image: "SC.PNG",
+            image: "SC.png",
             description: "Assorted gourmet cupcakes with premium toppings"
         },
         {
