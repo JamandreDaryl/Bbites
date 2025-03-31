@@ -53,7 +53,7 @@ $(document).ready(function() {
             name: "Apple Pie",
             price: 450,
             originalPrice: 600,
-            image: "AP.PNG",
+            image: "AP.png",
             description: "Traditional apple pie with cinnamon spice"
         },
         {
