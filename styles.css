@@ -68,7 +68,15 @@
             background-color: #fff;
             transform: translateY(-5px);
         }
-        
+
+       .price-tag .text-primary {
+    	color: var(--main-color) !important;
+        }
+
+       .product-card .card-title {
+            color: var(--main-color) !important;
+        }
+
         .product-card:hover .card-title,
         .product-card:hover .card-text {
             color: var(--black);
